@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>个人博客</title>
-    <link href="https://example.com/feed.xml" rel="self" />
-    <link href="https://example.com" />
+    <link href="https://my-blog-zgqbzqdg.edgeone.run/feed.xml" rel="self" />
+    <link href="https://my-blog-zgqbzqdg.edgeone.run" />
     <updated>2025-11-23T22:50:21+08:00</updated>
     <author>
         <name>ovo小弟的大哥</name>
     </author>
-    <id>https://example.com</id>
+    <id>https://my-blog-zgqbzqdg.edgeone.run</id>
 
     <entry>
         <title>test</title>
         <author>
             <name>ovo小弟的大哥</name>
         </author>
-        <link href="https://example.com/test.html"/>
-        <id>https://example.com/test.html</id>
+        <link href="https://my-blog-zgqbzqdg.edgeone.run/test.html"/>
+        <id>https://my-blog-zgqbzqdg.edgeone.run/test.html</id>
 
         <updated>2025-11-23T22:50:21+08:00</updated>
             <summary type="html">
